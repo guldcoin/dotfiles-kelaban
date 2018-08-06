@@ -1,0 +1,8 @@
+[user]
+	username = kelaban
+	name = Keith Laban
+	location = New York
+[commit]
+	gpgsign = true
+[aliases]
+	github = kelaban
